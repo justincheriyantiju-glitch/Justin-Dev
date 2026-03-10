@@ -26,8 +26,6 @@ Build useful technology and learn programming step by step.
 
 ## ⚡ Tech
 
-## ⚡ Tech
-
 ![Python](https://img.shields.io/badge/Python-Learning-blue?logo=python&logoColor=white)
 ![AI](https://img.shields.io/badge/AI-Enthusiast-purple)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Learning-blueviolet)
@@ -35,6 +33,10 @@ Build useful technology and learn programming step by step.
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-User-E95420?logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-User-blue?logo=windows&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Editor-VSCode-blue?logo=visualstudiocode)
+![HTML](https://img.shields.io/badge/HTML-Learning-orange?logo=html5&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-User-black?logo=github&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-Projects-00979D?logo=arduino&logoColor=white)
+![ESP](https://img.shields.io/badge/ESP-Development-red)
 ![Open Source](https://img.shields.io/badge/Open%20Source-Enthusiast-brightgreen)
 ![Open Source LLM](https://img.shields.io/badge/Open%20Source-LLM-blueviolet)
 
