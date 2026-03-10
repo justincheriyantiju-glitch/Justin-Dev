@@ -26,9 +26,17 @@ Build useful technology and learn programming step by step.
 
 ## ⚡ Tech
 
-![Python](https://img.shields.io/badge/Python-Learning-blue)
-![Linux](https://img.shields.io/badge/Linux-Ubuntu-orange)
-![Editor](https://img.shields.io/badge/Editor-VSCode-blue)
+## ⚡ Tech
+
+![Python](https://img.shields.io/badge/Python-Learning-blue?logo=python&logoColor=white)
+![AI](https://img.shields.io/badge/AI-Enthusiast-purple)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Learning-blueviolet)
+![Linux](https://img.shields.io/badge/Linux-Lover-orange?logo=linux&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-User-E95420?logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-User-blue?logo=windows&logoColor=white)
+![VS Code](https://img.shields.io/badge/Editor-VSCode-blue?logo=visualstudiocode)
+![Open Source](https://img.shields.io/badge/Open%20Source-Enthusiast-brightgreen)
+![Open Source LLM](https://img.shields.io/badge/Open%20Source-LLM-blueviolet)
 
 ## 📊 GitHub Stats
 
