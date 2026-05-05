@@ -28,7 +28,7 @@ Build useful technology and learn programming step by step.
 ## ⚡ Tech
 
 ![Python](https://img.shields.io/badge/Python-Learning-blue?logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/Python-Learning-blue?logo=c++&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-Learning-black?logo=c%2B%2B&logoColor=white)
 ![AI](https://img.shields.io/badge/AI-Enthusiast-purple)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Learning-blueviolet)
 ![Linux](https://img.shields.io/badge/Linux-Lover-orange?logo=linux&logoColor=white)
