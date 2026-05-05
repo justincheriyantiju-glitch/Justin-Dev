@@ -5,7 +5,7 @@
 💻 Student Developer  
 🤖 Interested in AI, Robotics, and Technology  
 🐧 Linux + Windows user  
-📚 Currently learning Python  
+📚 Currently learning Python and C++  
 
 ## 🛠️ Tools I Use
 
@@ -19,6 +19,7 @@
 - Python programming
 - AI development
 - Open-source tools
+- C++ programming
 
 ## 🎯 Goals
 
@@ -27,6 +28,7 @@ Build useful technology and learn programming step by step.
 ## ⚡ Tech
 
 ![Python](https://img.shields.io/badge/Python-Learning-blue?logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/Python-Learning-blue?logo=python&logoColor=white)
 ![AI](https://img.shields.io/badge/AI-Enthusiast-purple)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Learning-blueviolet)
 ![Linux](https://img.shields.io/badge/Linux-Lover-orange?logo=linux&logoColor=white)
